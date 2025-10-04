@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# AI-News-Summarizer-and-Sentiment-Analyzer
+AI-powered Flask service for real-time news summarization and sentiment analysis using Hugging Face NLP models.
+>>>>>>> 12bb5a9d270d526149505790d0ac7e22882703db
 # AI News Summarizer & Sentiment Analyzer - AI Services
 
 This module provides the AI services component for the News Summarizer & Sentiment Analyzer project. It implements text preprocessing, summarization, and sentiment analysis using free Hugging Face models.
